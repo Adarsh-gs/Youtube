@@ -1,0 +1,190 @@
+.side-div-content{
+    margin-top: 50px;
+    margin-left: 5px;
+    width: 220px;
+    max-height: 670px;
+    padding: 9.5px 10px 10px 0px;
+    float: left;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    padding-right: 10px;
+    position: fixed;
+    scrollbar-width: thin;
+    padding-left: 10px;
+}
+.side-div-content:hover{
+    overflow-y: scroll;
+}
+.side-div-1{
+    width: 195px;
+    height: 140px;
+    float: left;
+    padding-top: 8px;
+    padding-right: 20px;
+}
+.side-div-2{
+    width: 195px;
+    height: 307px;
+    float: left;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.side-div-3{
+    width: 195px;
+    height: 350px;
+    float: left;
+    padding-right: 20px;
+}
+.side-div-4{
+    width: 195px;
+    height: 460px;
+    float: left;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+.side-div-5{
+    width: 195px;
+    height: 210px;
+    float: left;
+    padding-right: 20px;
+    margin-top: 30px;
+}
+.side-div-6{
+    width: 195px;
+    height: 180px;
+    float: left;
+    padding-right: 20px;
+    margin-top: 12px;
+}
+.side-div-7{
+    width: 195px;
+    height: 72px;
+    float: left;
+    padding-right: 20px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #606060;
+    padding-top: 15px;
+}
+.side-div-8{
+    width: 200px;
+    height: 80px;
+    float: left;
+    padding-right: 20px;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #606060;
+}
+.google{
+    font-size: 12px;
+    color: #909090;
+    font-family: "Roboto", "Arial", sans-serif;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    float: left;
+    margin-left: 10px;
+    line-height: 18px;
+}
+.side-attributes-div,
+.side-attributes-div-home{
+    border-radius: 9px;
+    height: 40px;
+}
+.side-attributes-div-home{
+    background-color: rgb(240, 240, 240);
+}
+.side-attributes-div-home:hover{
+    background-color:  #e6e6e6;
+}
+.side-attributes-div:hover{
+    background-color: rgb(240, 240, 240);
+    cursor: pointer;
+}
+.side-attributes,
+.side-attributes-shorts,
+.side-attribute-playlist{
+    width: 23px;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+.side-attribute-playlist{
+    margin-top: 14px;
+}
+
+.side-attributes-shorts{
+    width: 28px;
+    margin-left: 12px;
+}
+.side-attributes-name,
+.side-attributes-shorts-name,
+.side-attribute-name-playlist,
+.side-attributes-home-name{
+    font-size: 14px;
+    margin-left: 62px;
+    margin-top: -22px;
+}
+.side-attributes-home-name{
+    font-weight: 500;
+}
+.side-attributes-shorts-name{
+    margin-top: -28px;
+}
+.hr{
+    color: gray;
+    width: 190px;
+    margin-top: 13px;
+    margin-left: 5px;
+}
+.you-para{
+    font-size: 17px;
+    margin-left: 10px;
+    margin-top: -6px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.right-arrow{
+    width: 6px;
+    height: 6px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    float: left;
+    transform: rotate(45deg);
+    margin-top: -12px;
+    margin-left: 45px;
+}
+
+.subscriptions{
+    font-size: 16px;
+    margin-left: 8px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.explore{
+    font-size: 16px;
+    margin-left: 8px;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.more-from-yt{
+    font-size: 16px;
+    margin: 10px 0 8px 10px;
+    font-weight: 500;
+}
+.side-attributes-yt-channels{
+    width: 28px;
+    margin-top: 4px;
+    margin-left: 6px;
+}
+.side-attributes-yt-channels-name{
+    font-size: 14px;
+    margin-left: 55px;
+    margin-top: -26px;   
+}
+.side-attribute-name-playlist{
+    margin-top: -19px;
+}

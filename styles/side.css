@@ -1,0 +1,44 @@
+.side-div{
+    width: 58px;
+    height: 1000px;
+    float: left;
+}
+.side-attributes{
+    width: 18px;
+    margin: 19px;
+}
+.side-div-home{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+.side-div-explore{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 16px;
+    margin-bottom: 10px;
+}
+.side-div-subscriptions{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 7px;
+    margin-bottom: 10px;
+}
+.side-div-orginals{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 14px;
+    margin-bottom: 10px;
+}
+.side-div-youtube{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.side-div-library{
+    font-size: 8px;
+    margin: -17px;
+    margin-left: 18px;
+}

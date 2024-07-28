@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content-div{
+    height: 1000px;
+    margin-left: 265px;
+    margin-top: 136px;
+    width: 1240px;
+    float: left;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.video-div{
+    width: 400px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 39px;
+}
+.thumbnail{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    float: left;
+    cursor: pointer;
+}
+.video-time{
+    width: 30px;
+    height: 15px;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    padding-right: -2px;
+    cursor: pointer;
+    display: inline;
+    float: left;
+    background-color:  rgba(0, 0, 0, 0.5);
+    color: white;
+    border-radius: 4px;
+    margin-top: -40px;
+    margin-left: 350px;
+    font-size: 12px;
+    font-family: "Roboto", "Arial", sans-serif;
+}
+.video-title{
+    font-weight: 500;
+    margin-bottom: 6px;
+    font-size: 16px;
+    line-height: 21px;
+    width: 90%;
+    float: left;
+    font-family: Roboto, Arial, sans-serif;
+    cursor: pointer;
+    margin-top: 3px;
+}
+.more-btn{
+    width: 21px;
+    float: left;
+    margin-left: 13px;
+    cursor: pointer;
+
+}
+.video-info,
+.video-au{
+    color: rgb(86, 86, 86);
+    font-size: 14px;
+    line-height: 19px;  
+    width: 170px;  
+    cursor: pointer;
+    margin-bottom: 1px;
+}
+.div-channel-img{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 2px;
+    width: 40px;
+}
+.img{
+    width: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+.div-video-info{
+    display: inline-block;
+    width: 350px;
+
+}
+.div-details{
+    margin-top: 220px;
+}
+
